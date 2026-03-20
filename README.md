@@ -67,8 +67,8 @@ During this project, I strengthened my understanding of:
 
 **Sujay Singh**
 
-  * LinkedIn: [Your Profile Link]
-  * GitHub: [@your-username]
+  * LinkedIn: https://www.linkedin.com/in/sujay-singh-/
+  * GitHub: https://github.com/Sujay-04
 
 -----
 
